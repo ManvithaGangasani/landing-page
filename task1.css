@@ -2911,6 +2911,9 @@ font-weight: 700;
 line-height: 60px;
 cursor: pointer;
 }
+.company-1ji:hover,.region-Am2:hover,.help-WCc:hover {
+  opacity: 0.5;
+}
 .help-center-contact-support-instructions-how-it-works-do2, .indonesia-singapore-hongkong-canada-WK6,.about-testimonials-find-a-doctor-apps-9L8{
   width: 195.5px;
   color: #FFF;
@@ -2921,5 +2924,9 @@ cursor: pointer;
   line-height: 38px; 
   margin-right: 70px;
   cursor: pointer;
+}
+
+.about:hover ,.in:hover ,.it:hover {
+  opacity: 0.5;
 }
 
